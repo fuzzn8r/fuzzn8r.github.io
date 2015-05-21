@@ -1,5 +1,9 @@
 /* Navigation bar */
 
+.nav {
+    margin-top: 100px;
+}
+
 .nav li {
     display:inline;
 }
