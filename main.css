@@ -3,7 +3,7 @@
 .nav {
     margin-top: 100px;
     /* light greenish color #5e9872 */
-    background-color:#5e9872
+    background-color:#000000;
 }
 
 .nav li {
@@ -14,6 +14,7 @@
     text-transform:uppercase;
     font-size:15px;
     font-weight:bold;
-    padding:15px 10px;
-    color:#5a5a5a;
+    padding-right:25px;
+    /* Grayish color: 5a5a5a */
+    color:#FFFFFF;
 }
