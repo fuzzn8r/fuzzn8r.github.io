@@ -1,7 +1,8 @@
-/* Navigation bar */
-
-.navbar .container-fluid {
-    margin:0% 7.5%;
+.navbar ul {
+    list-style:none;
+    padding:0;
+    width:400px;
+    margin:0 auto;
 }
 
 .jumbotron {
